@@ -19,7 +19,7 @@ In the beginning of the file you'll see some constants.
 	proxy_addr = 'localhost'
 	proxy_port = 8888
 
-These are self-explanatory, I guess. You must provide APP_ID (to which SWFs belong) and your VK cookie. Optionally you may want to use proxy.
+These are self-explanatory, I guess. You must provide APP_ID (to which SWFs belong) and your VK cookie. Optionally, you may want to use a proxy.
 
 ### Let's nuke'em!
 
