@@ -4,7 +4,7 @@ This little script will help you get rid of all those numerous additional SWF fi
 
 ### First things first
 
-You will need ruby interpreter. This is (good place to start)[http://www.ruby-lang.org/en/downloads/]
+You will need ruby interpreter. This is a good place to start: http://www.ruby-lang.org/en/downloads/
 
 ### Customize your script
 
